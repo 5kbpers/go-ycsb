@@ -13,6 +13,8 @@ github.com/5kbpers/client-go v0.0.0-20190723070116-82eee157e6b0 h1:rvPpaE4TAfClV
 github.com/5kbpers/client-go v0.0.0-20190723070116-82eee157e6b0/go.mod h1:UUrHrCkUIeht9xdivsVshzkJ55XJVr9OyYDMATwFGOE=
 github.com/5kbpers/client-go v0.0.0-20190723070544-6ae416b23745 h1:fb+3xPAYO9gjYK14oyTkPYLg9XD8nwbAIDD35mSDkoQ=
 github.com/5kbpers/client-go v0.0.0-20190723070544-6ae416b23745/go.mod h1:UUrHrCkUIeht9xdivsVshzkJ55XJVr9OyYDMATwFGOE=
+github.com/5kbpers/client-go v0.0.0-20190723071113-7f1d02a3649e h1:Fq3q5WvnMNzyyEMKVCSzIVGKG2oYT0J0jNwW6z7WeN0=
+github.com/5kbpers/client-go v0.0.0-20190723071113-7f1d02a3649e/go.mod h1:r9B00SWCc4NK5EH1PMUacs8B5Qq9EA1NbSOnoRs0aR8=
 github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7 h1:PqzgE6kAMi81xWQA2QIVxjWkFHptGgC547vchpUbtFo=
 github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
@@ -230,6 +232,7 @@ github.com/pingcap/kvproto v0.0.0-20190506024016-26344dff8f48 h1:Hhg78/MkogR8HTn
 github.com/pingcap/kvproto v0.0.0-20190506024016-26344dff8f48/go.mod h1:QMdbTAXCHzzygQzqcG9uVUgU2fKeSN1GmfMiykdSzzY=
 github.com/pingcap/kvproto v0.0.0-20190719163038-b134cf7a671b h1:2Tpd3IAYFfLIKSApX08BTae+9EDfZQhLk94TLpTEJug=
 github.com/pingcap/kvproto v0.0.0-20190719163038-b134cf7a671b/go.mod h1:QMdbTAXCHzzygQzqcG9uVUgU2fKeSN1GmfMiykdSzzY=
+github.com/pingcap/kvproto v0.0.0-20190722112638-bf367677ba45/go.mod h1:QMdbTAXCHzzygQzqcG9uVUgU2fKeSN1GmfMiykdSzzY=
 github.com/pingcap/log v0.0.0-20190715063458-479153f07ebd h1:hWDol43WY5PGhsh3+8794bFHY1bPrmu6bTalpssCrGg=
 github.com/pingcap/log v0.0.0-20190715063458-479153f07ebd/go.mod h1:WpHUKhNZ18v116SvGrmjkA9CBhYmuUTKL+p8JC9ANEw=
 github.com/pingcap/pd v2.1.5+incompatible h1:vOLV2tSQdRjjmxaTXtJULoC94dYQOd+6fzn2yChODHc=

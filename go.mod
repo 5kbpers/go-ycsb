@@ -3,7 +3,7 @@ module github.com/pingcap/go-ycsb
 require (
 	cloud.google.com/go v0.43.0
 	git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999 // indirect
-	github.com/5kbpers/client-go v0.0.0-20190723070544-6ae416b23745
+	github.com/5kbpers/client-go v0.0.0-20190723071113-7f1d02a3649e
 	github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7 // indirect
 	github.com/XiaoMi/pegasus-go-client v0.0.0-20181029071519-9400942c5d1c
 	github.com/aerospike/aerospike-client-go v1.35.2
