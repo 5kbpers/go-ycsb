@@ -23,6 +23,8 @@ github.com/5kbpers/client-go v0.0.0-20190724093103-fa8a5d9ff2cb h1:UcqRJiqJ9ZGoD
 github.com/5kbpers/client-go v0.0.0-20190724093103-fa8a5d9ff2cb/go.mod h1:r9B00SWCc4NK5EH1PMUacs8B5Qq9EA1NbSOnoRs0aR8=
 github.com/5kbpers/client-go v0.0.0-20190724093412-e6fa03553e37 h1:cATAY0pupTj9KgPEhuhm9X6Ih5EZlWt5DOoW+a7yJ2w=
 github.com/5kbpers/client-go v0.0.0-20190724093412-e6fa03553e37/go.mod h1:r9B00SWCc4NK5EH1PMUacs8B5Qq9EA1NbSOnoRs0aR8=
+github.com/5kbpers/client-go v0.0.0-20190724094005-2114f687aa42 h1:02Tw21rY9MbJ4oga8VufKuOzE/PaR3HKYVjIf2lsGA4=
+github.com/5kbpers/client-go v0.0.0-20190724094005-2114f687aa42/go.mod h1:r9B00SWCc4NK5EH1PMUacs8B5Qq9EA1NbSOnoRs0aR8=
 github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7 h1:PqzgE6kAMi81xWQA2QIVxjWkFHptGgC547vchpUbtFo=
 github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
