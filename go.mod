@@ -3,7 +3,7 @@ module github.com/5kbpers/go-ycsb
 require (
 	cloud.google.com/go v0.43.0
 	git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999 // indirect
-	github.com/5kbpers/client-go v0.0.0-20190724100153-d6e2f8869d97
+	github.com/5kbpers/client-go v0.0.0-20190724130546-053b9d3df4aa
 	github.com/XiaoMi/pegasus-go-client v0.0.0-20181029071519-9400942c5d1c
 	github.com/aerospike/aerospike-client-go v1.35.2
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
@@ -22,6 +22,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6 // indirect
 	github.com/gorilla/mux v1.7.3 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.9.5 // indirect
+	github.com/json-iterator/go v1.1.7 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/kr/pty v1.1.8 // indirect
 	github.com/lib/pq v0.0.0-20181016162627-9eb73efc1fcc
