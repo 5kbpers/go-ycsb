@@ -3,7 +3,7 @@ module github.com/5kbpers/go-ycsb
 require (
 	cloud.google.com/go v0.43.0
 	git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999 // indirect
-	github.com/5kbpers/client-go v0.0.0-20190724065117-f8a42cf7c48e
+	github.com/5kbpers/client-go v0.0.0-20190724092739-333ec7d4de07
 	github.com/XiaoMi/pegasus-go-client v0.0.0-20181029071519-9400942c5d1c
 	github.com/aerospike/aerospike-client-go v1.35.2
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
@@ -34,7 +34,7 @@ require (
 	github.com/openzipkin/zipkin-go v0.1.1 // indirect
 	github.com/pingcap/errors v0.11.1
 	github.com/pingcap/go-ycsb v0.0.0-20190711035054-d49cfa50745f // indirect
-	github.com/pingcap/kvproto v0.0.0-20190723112712-b6648ca50808 // indirect
+	github.com/pingcap/kvproto v0.0.0-20190724085112-ec9df5f208a7 // indirect
 	github.com/pingcap/log v0.0.0-20190715063458-479153f07ebd // indirect
 	github.com/pingcap/pd v2.1.15+incompatible // indirect
 	github.com/prometheus/common v0.6.0 // indirect
