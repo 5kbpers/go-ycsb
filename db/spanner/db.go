@@ -30,11 +30,11 @@ import (
 
 	adminpb "google.golang.org/genproto/googleapis/spanner/admin/database/v1"
 
-	"github.com/pingcap/go-ycsb/pkg/prop"
-	"github.com/pingcap/go-ycsb/pkg/util"
+	"github.com/5kbpers/go-ycsb/pkg/prop"
+	"github.com/5kbpers/go-ycsb/pkg/util"
 
 	"github.com/magiconair/properties"
-	"github.com/pingcap/go-ycsb/pkg/ycsb"
+	"github.com/5kbpers/go-ycsb/pkg/ycsb"
 )
 
 const (

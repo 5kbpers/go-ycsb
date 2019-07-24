@@ -21,9 +21,9 @@ import (
 	"github.com/dgraph-io/badger"
 	"github.com/dgraph-io/badger/options"
 	"github.com/magiconair/properties"
-	"github.com/pingcap/go-ycsb/pkg/prop"
-	"github.com/pingcap/go-ycsb/pkg/util"
-	"github.com/pingcap/go-ycsb/pkg/ycsb"
+	"github.com/5kbpers/go-ycsb/pkg/prop"
+	"github.com/5kbpers/go-ycsb/pkg/util"
+	"github.com/5kbpers/go-ycsb/pkg/ycsb"
 )
 
 //  properties

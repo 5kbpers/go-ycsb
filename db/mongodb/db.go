@@ -10,7 +10,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/x/network/command"
 	"go.mongodb.org/mongo-driver/x/network/connstring"
-	"github.com/pingcap/go-ycsb/pkg/ycsb"
+	"github.com/5kbpers/go-ycsb/pkg/ycsb"
 )
 
 const (

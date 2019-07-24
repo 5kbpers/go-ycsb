@@ -21,13 +21,13 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/pingcap/go-ycsb/pkg/prop"
-	"github.com/pingcap/go-ycsb/pkg/util"
+	"github.com/5kbpers/go-ycsb/pkg/prop"
+	"github.com/5kbpers/go-ycsb/pkg/util"
 
 	// mysql package
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/magiconair/properties"
-	"github.com/pingcap/go-ycsb/pkg/ycsb"
+	"github.com/5kbpers/go-ycsb/pkg/ycsb"
 )
 
 // mysql properties

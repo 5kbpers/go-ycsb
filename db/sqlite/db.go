@@ -23,13 +23,13 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/pingcap/go-ycsb/pkg/prop"
-	"github.com/pingcap/go-ycsb/pkg/util"
+	"github.com/5kbpers/go-ycsb/pkg/prop"
+	"github.com/5kbpers/go-ycsb/pkg/util"
 
 	"github.com/magiconair/properties"
 	// sqlite package
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/pingcap/go-ycsb/pkg/ycsb"
+	"github.com/5kbpers/go-ycsb/pkg/ycsb"
 )
 
 // Sqlite properties
