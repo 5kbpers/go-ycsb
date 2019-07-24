@@ -3,7 +3,7 @@ module github.com/5kbpers/go-ycsb
 require (
 	cloud.google.com/go v0.43.0
 	git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999 // indirect
-	github.com/5kbpers/client-go v0.0.0-20190724095350-9e23c66a9afe
+	github.com/5kbpers/client-go v0.0.0-20190724100153-d6e2f8869d97
 	github.com/XiaoMi/pegasus-go-client v0.0.0-20181029071519-9400942c5d1c
 	github.com/aerospike/aerospike-client-go v1.35.2
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
