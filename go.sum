@@ -9,6 +9,8 @@ git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999/go.mod h1:fPE2ZNJGy
 github.com/5kbpers/client-go v0.0.0-20190712072802-72c56e71aa86 h1:JGY77kUEYOK3qVHIf0vdBS3xdRSW9mkLUcCO/20HGUY=
 github.com/5kbpers/client-go v0.0.0-20190723074627-b234a2462196 h1:gauokGtVizKnLWkNvS0au9MK+sH/ZrrhC+RnCy7+CUw=
 github.com/5kbpers/client-go v0.0.0-20190723074627-b234a2462196/go.mod h1:r9B00SWCc4NK5EH1PMUacs8B5Qq9EA1NbSOnoRs0aR8=
+github.com/5kbpers/client-go v0.0.0-20190724063249-4119ae39b347 h1:xpUYiI11ocytDpM1h6O0o0rGGl8i1D2UQlj+UosZyTE=
+github.com/5kbpers/client-go v0.0.0-20190724063249-4119ae39b347/go.mod h1:r9B00SWCc4NK5EH1PMUacs8B5Qq9EA1NbSOnoRs0aR8=
 github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7 h1:PqzgE6kAMi81xWQA2QIVxjWkFHptGgC547vchpUbtFo=
 github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
