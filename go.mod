@@ -3,7 +3,7 @@ module github.com/pingcap/go-ycsb
 require (
 	cloud.google.com/go v0.49.0 // indirect
 	cloud.google.com/go/spanner v1.1.0
-	github.com/5kbpers/client-go v0.0.0-20191218052446-4eb1e4a7b4c8
+	github.com/5kbpers/client-go v0.0.0-20191218065905-52173098d770
 	github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7 // indirect
 	github.com/XiaoMi/pegasus-go-client v0.0.0-20181029071519-9400942c5d1c
 	github.com/aerospike/aerospike-client-go v1.35.2
@@ -39,7 +39,6 @@ require (
 	github.com/minio/minio-go v6.0.14+incompatible
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/pingcap/errors v0.11.1
-	github.com/pingcap/kvproto v0.0.0-20190506024016-26344dff8f48 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20190512091148-babf20351dd7 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a // indirect
