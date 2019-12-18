@@ -21,9 +21,9 @@ import (
 	"github.com/magiconair/properties"
 	"github.com/pingcap/go-ycsb/pkg/util"
 	"github.com/pingcap/go-ycsb/pkg/ycsb"
-	"github.com/tikv/client-go/config"
-	"github.com/tikv/client-go/txnkv"
-	"github.com/tikv/client-go/txnkv/kv"
+	"github.com/5kbpers/client-go/config"
+	"github.com/5kbpers/client-go/txnkv"
+	"github.com/5kbpers/client-go/txnkv/kv"
 )
 
 type txnDB struct {
