@@ -674,9 +674,9 @@ func (coreCreator) Create(p *properties.Properties) (ycsb.Workload, error) {
 	c.fieldChooser = generator.NewUniform(0, c.fieldCount-1)
 	switch scanLengthDistrib {
 	case "uniform":
-		c.scanLength = generator.NewUniform(1, maxScanLength)
+		c.scanLength = generator.NewUniform(maxScanLength, maxScanLength)
 	case "zipfian":
-		c.scanLength = generator.NewZipfianWithRange(1, maxScanLength, generator.ZipfianConstant)
+		c.scanLength = generator.NewZipfianWithRange(maxScanLength, maxScanLength, generator.ZipfianConstant)
 	default:
 		util.Fatalf("distribution %s not allowed for scan length", scanLengthDistrib)
 	}
